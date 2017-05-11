@@ -3,6 +3,9 @@
     width: 16px;
     cursor: pointer;
     background-image: url(rotate.png);
+    position: relative;
+    top: -45%;
+    margin-left:50%;
     background-size: 100%;
     left: 2px;
     bottom: 2px;
